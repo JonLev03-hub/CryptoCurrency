@@ -19,6 +19,9 @@ Because this was a small dataset I had no issues creating an elbow curve for the
 After this was done I decided that it would be best to use 4 clusters. I applied Kmeans to the data and then finally used plotly express to create a 3d visualization of the categorization.  The visualization is displayed below.
 ![image](https://user-images.githubusercontent.com/81537476/152652906-cbe3bf2d-2d5a-4cba-9e13-e5708d1612d5.png)
 
+Because one of the largest factors is the number of coins mined and the total amount of coins, so to display this I created a seperate chart. (Displayed Below)
+![image](https://user-images.githubusercontent.com/81537476/152653601-aad12208-f76a-4951-8967-9268566301b8.png)
+
 
 ## Application
 
